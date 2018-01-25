@@ -15,7 +15,7 @@ nohup /usr/bin/airplay_volume >/dev/null 2>&1 &
 ```
 before the `exit 0`. When the code has been edited to run as a daemon natively the repo will be updated and this readme updated also.
 
-For more information about Shairport-Sync please see [his github](http://github.com/mikebrady/shairport-sync).
+For more information about Shairport-Sync please see [Mike Brady's Repo on github](http://github.com/mikebrady/shairport-sync).
 For more information about the Rotary Encoder class, and almost all of the rotary encoder side of the code please see [Bob Rathbone's Website](http://www.bobrathbone.com/raspberrypi_rotary.htm).
 For the original posting on the questions part of Mike Brady's Repo see [here](https://github.com/mikebrady/shairport-sync/issues/504#issuecomment-294286813).
 
